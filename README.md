@@ -21,7 +21,7 @@ Este projeto é uma aplicação de lista de recados utilizando Express e Node.js
 
 1. Clone o repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone git clone https://github.com/LucaasOliveira/final_de_modulo_lista_de_recados
     ```
 
 2. Navegue até o diretório do projeto:
