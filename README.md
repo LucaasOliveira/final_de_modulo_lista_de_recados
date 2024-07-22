@@ -99,6 +99,12 @@ Para mais informações detalhadas sobre a API, acesse a documentação completa
 
 [Documentação da API no Postman](https://documenter.getpostman.com/view/36703183/2sA3kVkMA5)
 
+## Deploy da Aplicação
+
+A aplicação está hospedada no Render. Você pode acessá-la através do link:
+
+[Deploy no Render](https://final-de-modulo-lista-de-recados.onrender.com)
+
 ## Contribuições
 
 Contribuições são bem-vindas! Por favor, envie um pull request ou abra uma issue para sugestões e melhorias.
