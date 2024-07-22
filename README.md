@@ -1,3 +1,15 @@
+## Documentação da API
+
+Para mais informações detalhadas sobre a API, acesse a documentação completa no Postman:
+
+[Documentação da API no Postman](https://documenter.getpostman.com/view/36703183/2sA3kVkMA5)
+
+## Deploy da Aplicação
+
+A aplicação está hospedada no Render. Você pode acessá-la através do link:
+
+[Deploy no Render](https://final-de-modulo-lista-de-recados.onrender.com)
+
 # Lista de Recados
 
 Este projeto é uma aplicação de lista de recados utilizando Express e Node.js. Permite o registro de usuários, login e gerenciamento de mensagens.
@@ -92,18 +104,6 @@ Este projeto é uma aplicação de lista de recados utilizando Express e Node.js
 
 - **DELETE** `/messages/:id`
     - **Descrição:** Deleta uma mensagem existente.
-
-## Documentação da API
-
-Para mais informações detalhadas sobre a API, acesse a documentação completa no Postman:
-
-[Documentação da API no Postman](https://documenter.getpostman.com/view/36703183/2sA3kVkMA5)
-
-## Deploy da Aplicação
-
-A aplicação está hospedada no Render. Você pode acessá-la através do link:
-
-[Deploy no Render](https://final-de-modulo-lista-de-recados.onrender.com)
 
 ## Contribuições
 
