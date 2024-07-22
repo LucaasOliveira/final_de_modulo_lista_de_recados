@@ -93,10 +93,16 @@ Este projeto é uma aplicação de lista de recados utilizando Express e Node.js
 - **DELETE** `/messages/:id`
     - **Descrição:** Deleta uma mensagem existente.
 
+## Documentação da API
+
+Para mais informações detalhadas sobre a API, acesse a documentação completa no Postman:
+
+[Documentação da API no Postman](https://documenter.getpostman.com/view/36703183/2sA3kVkMA5)
+
 ## Contribuições
 
 Contribuições são bem-vindas! Por favor, envie um pull request ou abra uma issue para sugestões e melhorias.
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto foi criado por Lucas Almeida de Oliveira.
