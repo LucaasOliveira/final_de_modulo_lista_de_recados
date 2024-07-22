@@ -50,4 +50,4 @@ router.post('/login', validateUserLogin, (req, res) => {
     };
 });
 
-export default router;
+export { router as userRoutes, users };
